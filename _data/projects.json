@@ -2,28 +2,28 @@
   "projects": [
     {
       "name": "Mazika",
-      "description": "A music streaming UI built with React (Vite) and Material UI. Features dynamic search, trending songs, artist pages, a mini player, and a clean, responsive design.",
+      "description": "A music streaming UI built with React (Vite) and Material UI. Features dynamic search, trending songs, artist pages, a mini player, and a clean, responsive design. Includes Node.js/Express backend with MongoDB Atlas and SendGrid.",
       "github_url": "https://github.com/mostafanasser9/mazika",
       "website_url": "https://mostafanasser9.github.io/mazika",
-      "technologies": ["React", "Material UI", "Vite", "CSS3"],
+      "technologies": ["React", "Material UI", "Node.js", "Express", "MongoDB"],
       "image": "images/mazika.png",
       "featured": true
     },
     {
       "name": "Car Zone",
-      "description": "A full-stack web app for car listings and purchases. Allows users to browse, filter, and add vehicles. Built with React, Node.js, and MongoDB.",
+      "description": "Android-based car marketplace app developed as part of a university course. Features include user authentication, car listings, video previews, and profile management. Built with JavaFX.",
       "github_url": "https://github.com/mostafanasser9/car-zone",
       "website_url": "https://mostafanasser9.github.io/car-zone",
-      "technologies": ["React", "Node.js", "Express", "MongoDB"],
+      "technologies": ["Java", "JavaFX", "Android"],
       "image": "images/car-zone.png",
       "featured": true
     },
     {
       "name": "Personal Finance Tracker",
-      "description": "A web app to track personal finances, manage expenses, and visualize spending habits. Built with React and Firebase.",
+      "description": "Java desktop app for tracking personal finances, built for Software Component Design course. Implements multiple design patterns including Creational, Structural, and Behavioral patterns with a Swing UI.",
       "github_url": "https://github.com/mostafanasser9/personal-finance-tracker",
       "website_url": "https://mostafanasser9.github.io/personal-finance-tracker",
-      "technologies": ["React", "Firebase", "Chart.js"],
+      "technologies": ["Java", "Swing", "Design Patterns"],
       "image": "images/finance-tracker.png",
       "featured": true
     }
