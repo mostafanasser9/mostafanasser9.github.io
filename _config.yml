@@ -5,6 +5,8 @@ url: "https://mostafanasser9.github.io"
 theme: minima
 markdown: kramdown
 permalink: pretty
+github:
+  is_project_page: false
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

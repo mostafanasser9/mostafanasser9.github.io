@@ -183,9 +183,14 @@ nav ul li a:hover:after {
     font-size: 0.85rem;
 }
 
+.project-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
 .project-link {
     display: inline-block;
-    margin-top: 1rem;
     font-weight: 500;
     color: var(--primary-color);
     text-decoration: none;
