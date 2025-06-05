@@ -1,0 +1,28 @@
+title: Mostafa Nasser | Portfolio
+description: Personal portfolio and project showcase of Mostafa Nasser, a software engineering student and full-stack developer.
+baseurl: ""
+url: "https://mostafanasser9.github.io"
+theme: minima
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+author: Mostafa Nasser
+social:
+  github: mostafanasser9
+  linkedin: mostafanasser04
+exclude:
+  - README.md
+  - .gitignore
+  - _config.yml
+  - _layouts
+  - index.html
+  - .git
+  - .vscode
+  - node_modules
+  - out
+  - sample
+  - .vscode-test
+  - .yarnrc
+  - vsc-extension-quickstart.md
