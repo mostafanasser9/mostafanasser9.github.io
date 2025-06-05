@@ -3,7 +3,8 @@
     {
       "name": "Mazika",
       "description": "A music streaming UI built with React (Vite) and Material UI. Features dynamic search, trending songs, artist pages, a mini player, and a clean, responsive design.",
-      "url": "https://github.com/mostafanasser9/mazika",
+      "github_url": "https://github.com/mostafanasser9/mazika",
+      "website_url": "https://mostafanasser9.github.io/mazika",
       "technologies": ["React", "Material UI", "Vite", "CSS3"],
       "image": "images/mazika.png",
       "featured": true
@@ -11,7 +12,8 @@
     {
       "name": "Car Zone",
       "description": "A full-stack web app for car listings and purchases. Allows users to browse, filter, and add vehicles. Built with React, Node.js, and MongoDB.",
-      "url": "https://github.com/mostafanasser9/car-zone",
+      "github_url": "https://github.com/mostafanasser9/car-zone",
+      "website_url": "https://mostafanasser9.github.io/car-zone",
       "technologies": ["React", "Node.js", "Express", "MongoDB"],
       "image": "images/car-zone.png",
       "featured": true
@@ -19,7 +21,8 @@
     {
       "name": "Personal Finance Tracker",
       "description": "A web app to track personal finances, manage expenses, and visualize spending habits. Built with React and Firebase.",
-      "url": "https://github.com/mostafanasser9/personal-finance-tracker",
+      "github_url": "https://github.com/mostafanasser9/personal-finance-tracker",
+      "website_url": "https://mostafanasser9.github.io/personal-finance-tracker",
       "technologies": ["React", "Firebase", "Chart.js"],
       "image": "images/finance-tracker.png",
       "featured": true
